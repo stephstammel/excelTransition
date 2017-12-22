@@ -12,7 +12,7 @@ Description: This package automates a suite of descriptive statistics in the
     time getting up to speed on the basics.
     Once you have the basics down in R, you'll probably never use this pacakge again.
     If that's what happens - this is GREAT. And just what it's for.
-    Current status: UNDER TESTING
+    Current status: UNDER TESTING. Any ideas or errors?
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
