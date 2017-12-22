@@ -1,0 +1,23 @@
+Package: excelTransition
+Type: Package
+Title: Transitioning from Excel? This package makes some things easier.
+Version: 0.1.0
+Author: Steph de Silva
+Maintainer: Steph de Silva <steph@rex-analytics.com>
+Description: This package automates a suite of descriptive statistics in the 
+    same format as you would generate using Excel's descriptive statistics TookPak.
+    There's nothing 'special' going on here under the hood - but with one function call
+    you can get all the things you usually would in Excel. This makes it easier for you to
+    transition from Excel - get what you need and know quickly, so you can spend more
+    time getting up to speed on the basics.
+    Once you have the basics down in R, you'll probably never use this pacakge again.
+    If that's what happens - this is GREAT. And just what it's for.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: moments, tidyverse, lubridate, ggplot2
+Suggests: testthat,
+    knitr,
+    rmarkdown
+RoxygenNote: 6.0.1
+VignetteBuilder: knitr
