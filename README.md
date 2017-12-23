@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # excelTransition
 excelTransition is designed to reduce some of the time costs as new R users transition from Excel to R. 
 
